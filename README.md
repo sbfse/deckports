@@ -945,3 +945,245 @@ https://github.com/snesrev/sm
 &#x200B;
 
 **MASTER LIST FOR ROMHACK IMPROVEMENTS:** https://docs.google.com/spreadsheets/u/0/d/1dvVDYdju7NNjqwAR9o9FP4X2cAxnDzuPefNPfXq7V7Y/htmlview
+
+Bloodborne Demake - download link in description of video: https://youtu.be/9Pz_T6Kog6k
+
+Dead Space Demake: https://brumley53.itch.io/dead-space-demake
+
+Mario 64 Render96: download in the comments section of this video - https://youtu.be/drmRvEsMWh0
+
+Super Mario 64 Plus: https://retroresolve.com/how-to-play-the-super-mario-64-pc-port-on-steam-deck/
+
+AM2R (Another Metroid 2 Remake): https://am2r-another-metroid-2-remake.en.uptodown.com/windows/download (OR native Linux port through this launcher: https://github.com/AM2R-Community-Developers/AM2RLauncher)
+
+Simpsons Hit & Run: https://youtu.be/QV-70fe4hWc
+
+Mushroom Kingdom Fusion: https://fusion-fangaming.itch.io/mushroom-kingdom-fusion/devlog/329765/v08-update
+
+Mario Kart Wii Deluxe: download the .wbfs file from their Discord linked in this Reddit comment and play through Dolphin - https://www.reddit.com/r/EmulationOnAndroid/comments/yjprno/mario_kart_wii_deluxe_60_544_tracks_10_arenas/iup8zjh?utm_medium=android_app&utm_source=share&context=3
+
+Sonic Project 06: https://youtu.be/ZJlzjSXIguo
+
+Silent Hill 2 Enhanced Edition: https://www.reddit.com/r/SteamDeck/comments/yv3qf5/guide_how_to_get_silent_hill_2_enhanced_edition/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
+
+This post above has been archived incase it gets deleted in r/SteamDeck, check here for a full list: https://docs.google.com/document/d/1Gyg0qJ_BErGhjILBx7Rjc75veljcEkP6lGF_2M4TbZw/edit?usp=sharing
+Jak & Daxter Precursor Legacy: https://www.reddit.com/r/SteamDeck/comments/vgni7w/jak_and_daxter_precursor_legacy_on_steam_deck_a/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
+
+This post above has been archived incase it gets deleted in r/SteamDeck, check here for a full list: https://docs.google.com/document/d/1Gyg0qJ_BErGhjILBx7Rjc75veljcEkP6lGF_2M4TbZw/edit?usp=sharing
+
+Ship of Harkinian (Zelda: Ocarina of Time port): https://github.com/HarbourMasters/Shipwright
+
+Duke Nukem Forever Restoration Project: https://www.moddb.com/mods/dnf2001-restoration-project
+
+Mystery of Solarus DX (Link to the Past fan game - NB game needs to be in .zip format when adding to Solarus Launcher!!): https://www.solarus-games.org/games/the-legend-of-zelda-mystery-of-solarus-dx/ (needs the Windows version of the Solarus Launcher found here: https://www.solarus-games.org/download/)
+
+Mini Doom 2: http://calavera.studio/en/games/minidoom2/
+
+Mega Man Rock N Roll: https://dennisengelhard.com/rock-n-roll/
+
+Rayman Redemption:
+https://www.reddit.com/r/SteamDeck/comments/ygjc07/rayman_redemption_a_fan_made_reimagination_of_the/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
+This post above has been archived incase it gets deleted in r/SteamDeck, check here for a full list: https://docs.google.com/document/d/1Gyg0qJ_BErGhjILBx7Rjc75veljcEkP6lGF_2M4TbZw/edit?usp=sharing
+
+Devilution X (Diablo 1): https://www.reddit.com/r/SteamDeck/comments/w9epsg/guide_diablo_1_on_steam_deck_using_devilutionx/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
+
+This post above has been archived incase it gets deleted in r/SteamDeck, check here for a full list: https://docs.google.com/document/d/1Gyg0qJ_BErGhjILBx7Rjc75veljcEkP6lGF_2M4TbZw/edit?usp=sharing
+
+Pokémmo: https://pokemmo.com/downloads/
+
+Sonic 2 HD: https://www.sonic2hd.com/download (fixed link)
+
+Zelda Majora's Mask 3D With 4K Texture Pack: https://www.henrikomagnifico.com/zelda-majoras-mask-3d-4k
+
+Zelda Ocarina of Time 3D With 4K Texture Pack: https://www.henrikomagnifico.com/zelda-ocarina-of-time-3d-4k
+
+Zelda Twilight Princess With 4K Texture Pack: https://www.henrikomagnifico.com/zelda-twilight-princess-4k
+
+Zelda A Link Between Worlds With 4K Texture Pack: https://www.henrikomagnifico.com/zelda-a-link-between-worlds-4k
+
+Zelda Skyward Sword With 4K Texture Pack: https://www.henrikomagnifico.com/zelda-skyward-sword-4k
+
+Super Mario Sunshine With 4K Texture Pack: https://www.henrikomagnifico.com/super-mario-sunshine-4k
+
+Luigis Mansion With 4K Texture Pack: https://www.henrikomagnifico.com/luigis-mansion-4k
+
+Super Mario 3D Land With 4K Texture Pack: https://www.henrikomagnifico.com/super-mario-3d-land-hd
+
+Golden Axe Returns: https://gamejolt.com/games/GoldenAxeReturns/779852
+
+Super Smash Flash 2: https://www.reddit.com/r/SteamDeck/comments/1086ac3/super_smash_flash_2_on_steam_deck_guide_in/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
+
+This post above has been archived incase it gets deleted in r/SteamDeck, check here for a full list: https://docs.google.com/document/d/1Gyg0qJ_BErGhjILBx7Rjc75veljcEkP6lGF_2M4TbZw/edit?usp=sharing
+
+Resident Evil 4 HD Project: https://www.re4hd.com/?page_id=9654
+
+The Legend of Banjo-Kazooie: The Bear Waker: https://fangamez.net/nin/n64/legend-of-banjo.html
+
+Castlevania The Lecarde Chronicles 2: https://www.myabandonware.com/game/castlevania-the-lecarde-chronicles-2-bw5
+
+Zelda A Link To The Past Decompilation: https://github.com/snesrev/zelda3
+
+Prince of Persia Original Trilogy: https://www.popot.org/get_the_games.php?game=SDLPoP
+
+The Driver Syndicate: https://driver-syndicate.com/
+
+Persona 3 FES HD Overhaul Mod & Widescreen Patch: https://m.youtube.com/watch?v=deFqMs1tBYo&feature=youtu.be
+
+Super Mario 3: Mario Forever: https://mario-forever.en.uptodown.com/windows
+
+Pokémon Unbound: https://www.pokeharbor.com/2022/08/pokemon-unbound/
+
+Pokémon Uranium: https://www.reddit.com/r/pokemonuranium/comments/m9yvd6/download_links/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
+
+Pokémon Infinite Fusion: https://www.pokemoncoders.com/pokemon-infinite-fusion/
+
+Smash 64 Remix: https://github.com/JSsixtyfour/smashremix/releases/tag/1.3.0
+
+Phantasy Star Online Blue Burst: https://www.pioneer2.net/community/threads/ephinea-pso-bb-on-steam-deck-official-thread.24850/
+
+Final Fantasy 9 Moguri Mod: https://m.youtube.com/watch?v=Sc7SpRNGE_I&feature=youtu.be
+
+Final Fantasy 7 Satsuki Yatoshi Mod: https://m.youtube.com/watch?v=4aaaDnCE82g&feature=youtu.be
+
+Jedi Knight Dark Forces 2 Unreal Engine: https://m.youtube.com/watch?v=PT2rEgeCJCE&feature=youtu.be
+
+Sonic Robo Blast 2: https://www.srb2.org/
+
+Super Smash Land: https://www.supersmashland.com/
+
+Super Mario Bros X: https://super-mario-bros-x.en.uptodown.com/windows
+
+Mortal Kombat Defenders of The Earth: https://mortal-kombat-defenders-of-the-earth.en.uptodown.com/windows
+
+Streets of Rage Remake: https://street-rage-remake.en.uptodown.com/windows
+
+Paper Mario 64 HD Texture Pack - located in top comment of YouTube video: https://m.youtube.com/watch?v=fO0Hqhk7qxA
+
+Mario Kart 64 HD Texture Pack: https://github.com/AndratVA/Mario-Kart-64-HD
+
+Sonic Triple Trouble 16-bit: https://gamejolt.com/games/sonictripletrouble16bit/322794
+
+Enderal (free total conversion Mod for Skyrim): https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/
+
+Black Reliquary (free total conversion mod for Darkest Dungeon): https://store.steampowered.com/app/2119270/Black_Reliquary/
+
+Portal Stories: Mel (free Portal 2 mod): https://store.steampowered.com/app/317400/Portal_Stories_Mel/
+
+Super Mario World: Return to Dinosaur Land: https://www.smwcentral.net/?a=details&id=4990&p=section
+
+No One Lives Forever 1 & 2: http://nolfrevival.tk/
+
+Roller Coaster Tycoon 2 Decompilation: https://openrct2.org/
+
+X-Com Decompilation: https://openxcom.org/downloads-milestones/
+
+Sonic CD (2011) Decompilation: https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation
+
+Sonic the Hedgehog (2013) and Sonic the Hedgehog 2 (2013) Decompilation: https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation
+
+Sonic After The Sequel DX: https://forums.sonicretro.org/index.php?threads/sonic-after-the-sequel-dx.37097/
+
+Syndicate Wars: http://swars.vexillium.org/
+
+Dune 2: https://github.com/OpenDUNE/OpenDUNE
+
+Kirbys Dreamland 2 DX: https://www.romhacking.net/hacks/7724/
+
+Streets of Rage 2 - Final Fight Crossover: https://www.romhacking.net/hacks/4527/
+
+Star Wars Movie Duels (total conversion mod for Jedi Knight - Jedi Academy): https://www.reddit.com/r/SteamDeck/comments/1336a12/how_to_get_the_best_jedi_experience_on_the_steam/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
+
+This post above has been archived incase it gets deleted in r/SteamDeck, check here for a full list: https://docs.google.com/document/d/1Gyg0qJ_BErGhjILBx7Rjc75veljcEkP6lGF_2M4TbZw/edit?usp=sharing
+
+Sonic Master System Remake: https://gamejolt.com/games/sonicsmsremake/639432
+
+Need For Speed Pro Street and Underground 2 (in comments): https://www.reddit.com/r/SteamDeck/comments/138iubc/working_need_for_speed_pro_street_for_steam_deck/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
+
+This post above has been archived incase it gets deleted in r/SteamDeck, check here for a full list: https://docs.google.com/document/d/1Gyg0qJ_BErGhjILBx7Rjc75veljcEkP6lGF_2M4TbZw/edit?usp=sharing
+
+PlayStation Home: https://github.com/NagatoDEV/PlayStation-Home-Master-Archive
+
+Doom RPG: https://www.reddit.com/r/SteamDeck/comments/vo9kjc/newly_released_doom_rpg_port_works_on_steam_deck/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
+
+This post above has been archived incase it gets deleted in r/SteamDeck, check here for a full list: https://docs.google.com/document/d/1Gyg0qJ_BErGhjILBx7Rjc75veljcEkP6lGF_2M4TbZw/edit?usp=sharing
+
+Doom 2 RPG: https://www.reddit.com/r/SteamDeck/comments/13c52s5/doom_2_rpg_on_deck/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
+
+This post above has been archived incase it gets deleted in r/SteamDeck, check here for a full list: https://docs.google.com/document/d/1Gyg0qJ_BErGhjILBx7Rjc75veljcEkP6lGF_2M4TbZw/edit?usp=sharing
+
+Chronicles of Riddick - Escape From Butchers Bay: 
+[Deleted]
+
+Marathon Trilogy: https://www.reddit.com/r/Marathon/comments/10lya69/sorry_i_took_so_long_but_mu_steam_deck_controller/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
+
+GTA San Andrea's Definitive Edition Mod: https://www.definitive-edition-project.com/sa-de
+
+Entropy Zero 2 (free Half Life 2 mod): https://store.steampowered.com/app/1583720/Entropy__Zero_2/
+
+NBA Jam: Legends on Fire Edition (conversion mod of NBA JAM: On Fire Edition (OFE) for PlayStation 3 - installation instructions for RPCS3 in link): https://forums.nba-live.com/viewtopic.php?f=72&t=114923
+
+Updated 2024 (New Games!) (WIP):
+
+Megaman Maker https://megamanmaker.com/
+
+Zelda64 Majora’s Mask Recomp https://github.com/N64Recomp/N64Recomp
+
+Pokemon Infinite Fusion https://youtu.be/LRzdEYJsRhU
+
+Mario 64 CoopDX (Pc Decompilation Version) https://sm64coopdx.com/
+
+Castlevania ReVamped https://https://www.youtube.com/watch?v=C8Sw2CGQkK8&ab_channel=Lv.4Games.com/
+
+Dr. Robotnik’s Ring Racers https://www.kartkrew.org/index.html
+
+PokéRogue https://github.com/Admiral-Billy/Pokerogue-App
+
+Project Slippi (Smash bros Melee Online) https://slippi.gg/
+
+Final Fantasy Renaissance https://rengames.us/ffr.html
+
+Open TTD - Remake of Transport Tycoon Deluxe https://www.openttd.org/
+
+Julius - Faithful Remake of Caesar III https://github.com/bvschaik/julius
+
+Augustus - Caesar III Remake with New Features https://github.com/Keriew/augustus
+
+Need for Speed II: Special Edition Remake https://github.com/zaps166/NFSIISE
+
+S.t.a.l.k.e.r. Anomaly: https://www.moddb.com/mods/stalker-anomaly
+
+Super Mario World Engine https://discord.com/invite/enginekingdom
+
+Rhythm Heaven maker https://github.com/chrislo27/RhythmHeavenRemixEditor
+
+Phantasy Star Online: Return to Ragol https://www.reddit.com/r/PSO/comments/1dluqgv/return_to_ragol_is_here/
+
+Undertale Yellow: https://gamejolt.com/games/UndertaleYellow/136925
+
+Wuhu Island Explorer https://atomiclugia.itch.io/wuhu-island-explorer
+
+Mario Game & Watch Gallery: Modern Master Chef https://bunnynaut.itch.io/modern-modern-chef
+
+Celeste 64 https://maddymakesgamesinc.itch.io/celeste64
+
+Sonic 3 A.I.R. https://sonic3air.org/
+
+Half-Life Alyx (No Vr) https://www.moddb.com/mods/half-life-alyx-novr/downloads/hla-novr-launcher-installer-june-22nd-2024
+
+Open MW (Open Morrowind)(flatpak) https://www.youtube.com/watch?v=BxIKfWGdSh0
+https://openmw.org/downloads/
+
+Super Metroid Decompilation: https://github.com/testyourmine/sm-redux
+
+Infinity Blade (PC Port) https://www.reddit.com/r/infinityblade/comments/1avsqtx/infinity_blade_1_has_been_ported_over_to_pc/
+
+Currently (WIP)
+
+Games In progress (Ones to Keep your Eye on!):
+Paper Mario Decompile (PC port coming soon maybe): https://papermar.io/
+
+Banjo-Kazooie Decompile (PC port coming soon maybe): https://github.com/n64decomp/banjo-kazooie
+
+The Legend of Zelda: Breath of The Wild Decompilation: https://botw.link/
+
+Pokemon BD/SP (Gen 4) PC Decompilation: https://x.com/luminescentteam?lang=en
