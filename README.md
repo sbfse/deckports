@@ -1,10 +1,4 @@
 # deckports
-Hi all. One of my favourite things to do with the Steam Deck is to mess around and see what games, texture packs etc. would work. Over time I put together a list of some of my favourites and others from here and other subs put forward their favourites to add as well. The following is my most up to date list. 
-
-If you have any suggestions yourself, put it in the comments below and I'll add to the list. Also, if you come across any links that no longer work, please let me know. Enjoy!
-
-And, cheers to the new mod team for cleaning things up and making it easier to post content like this again 👌 
-
 &#x200B;
 
 **Super Mario 64 Render96:** download in the comments section of this video - 
